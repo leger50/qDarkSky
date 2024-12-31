@@ -1,15 +1,8 @@
-# qDarkSky
-QtCreator Dark Theme
+Custom QtCreator Dark Theme forked from [Foxoman _QDarksky_ repository][repo-fork]
 
-# Support
-If you like this theme, you can use it for free appreciate your support to have more themes :)
-
-<a href="https://www.buymeacoffee.com/foxoman" rel="Support">![Support](https://www.buymeacoffee.com/assets/img/custom_images/black_img.png)</a>
-
-* * *
 # Screenshots
 
-![C++](https://raw.githubusercontent.com/foxoman/qDarkSky/master/qDarksky.png)
+![Theme screenshot][screenshot]
 
 # Install
 
@@ -22,3 +15,6 @@ If you like this theme, you can use it for free appreciate your support to have 
 ## Linux
 `cp qdarksky.xml ~/.config/QtProject/qtcreator/styles/`
 
+<!-- Links -->
+[repo-fork]: https://github.com/foxoman/qDarkSky
+[screenshot]: https://raw.githubusercontent.com/legerch/qDarkSky/master/qDarksky.png
